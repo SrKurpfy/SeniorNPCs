@@ -1,0 +1,8 @@
+name: SeniorNPC
+main: com.gmail.kurpfy.seniorteam.SeniorTeamPlugin
+version: 1.0-SNAPSHOT
+author: Kurpfy
+website: http://github.com/SrKurpfy/SeniorTeamNPCs
+commands:
+  npc:
+    permission: seniornpc.super
